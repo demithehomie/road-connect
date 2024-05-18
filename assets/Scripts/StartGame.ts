@@ -6,7 +6,7 @@ export class StartGame extends Component {
 
 
    startGame() {
-        director.loadScene('Main');
+        director.loadScene('scene01');
     }
   
     
