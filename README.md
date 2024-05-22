@@ -27,7 +27,7 @@ To run this project locally, follow these steps:
 
 1. Clone the repository:
    ```sh
-   git clone https://github.com/yourusername/road-connect.git
+   git clone https://github.com/demithehomie/road-connect.git
    ```
 2. Navigate to the project directory:
    ```sh
@@ -44,5 +44,5 @@ To run this project locally, follow these steps:
 For any inquiries or further discussion about my work, feel free to reach out:
 
 - **Email**: engdemeferreira@gmail.com
-- **LinkedIn**: [My LinkedIn Profile](https://www.linkedin.com/in/demetrius-carneiro-ferreira/)
+- **LinkedIn**: [DEMETRIUS CARNEIRO MONTEIRO FERREIRA](https://www.linkedin.com/in/demetrius-carneiro-ferreira/)
 
