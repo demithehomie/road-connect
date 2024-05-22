@@ -1,8 +1,11 @@
-import { _decorator, Component, Vec3 } from 'cc';
+import { _decorator, Component, Vec3, Enum } from 'cc';
 import { RoadPieceType } from '../enums/RoadPieceType';
 import { Connection } from '../models/Connection';
 import { Direction } from '../enums/Direction';
 const { ccclass, property } = _decorator;
+
+// Certifique-se de registrar a enumeração como um tipo do Cocos Creator
+Enum(RoadPieceType);
 
 @ccclass('RoadPieceComponent')
 export class RoadPieceComponent extends Component {
