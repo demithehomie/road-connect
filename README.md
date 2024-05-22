@@ -20,7 +20,6 @@ I am a seasoned software developer with extensive experience in creating interac
 
 - **Cocos Creator 3.7.1**: For building and animating game scenes.
 - **TypeScript**: Ensuring type safety and scalable code architecture.
-- **API Integrations**: Demonstrating proficiency with various payment integrations, including Mercado Pago, Binance, and Stripe, which are part of my regular weekly updates.
 
 ## Installation and Setup
 
