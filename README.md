@@ -45,5 +45,5 @@ To run this project locally, follow these steps:
 For any inquiries or further discussion about my work, feel free to reach out:
 
 - **Email**: engdemeferreira@gmail.com
-- **LinkedIn**: [Your LinkedIn Profile](https://www.linkedin.com/in/demetrius-carneiro-ferreira/)
+- **LinkedIn**: [My LinkedIn Profile](https://www.linkedin.com/in/demetrius-carneiro-ferreira/)
 
